@@ -4,7 +4,7 @@
 - 💻 Languages: Python | SQL | DAX |
 - 🧰 Tools & Platforms: Power BI | Advanced Excel |Tableau | GitHub |
 - 🛠️ Data Processing: Seaborn | Pandas | NumPy | ETL | Jupyter Notebooks | Matplotlib | Scikit-Learn | Tensorflow | Keras |
-- 📂 Databases: MySQL | PostgreSQL | SQL Server |
+- 📂 Databases: MySQL | PostgreSQL | SQL Server | 
 - 📦 Other Skills: Data Modeling | Data Cleaning | Data Preprocessing | Workflow Automation | Data Visualization | Machine Learning | Deep Learning | NLP |
 
 
